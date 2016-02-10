@@ -1,6 +1,5 @@
 Django Voting app
 =================
-A gamification sample for heybadges.com.
 
 Installation
 ------------
